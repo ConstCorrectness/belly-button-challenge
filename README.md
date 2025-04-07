@@ -1,6 +1,5 @@
 # BBC (Belly Button Challenge)
 
-Badges
 ![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
 ![HTML](https://img.shields.io/badge/HTML5-orange.svg)
